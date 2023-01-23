@@ -143,64 +143,6 @@
       <change afterPath="$PROJECT_DIR$/../blog-nextjs/components/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog-nextjs/public/bg.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog-nextjs/services/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dashboard-clone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/profileImage.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/BreakdownChart.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/FlexBetween.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Navbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/OverviewChart.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Sidebar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/StatBox.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/scenes/breakdown/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/scenes/customers/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/scenes/daily/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/scenes/dashboard/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/scenes/layout/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/scenes/monthly/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/scenes/products/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/scenes/sales/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/scenes/transactions/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/state/api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/state/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tailwind.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/controllers/client.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/controllers/general.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/controllers/management.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/controllers/sales.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/data/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/OverallStat.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/Product.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/ProductStat.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/Transaction.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/User.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/client.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/general.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/management.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/sales.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/tsconfig.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../dashboard/dashboard.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../dashboard/font.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../dashboard/index.html" afterDir="false" />
@@ -613,6 +555,8 @@
       <change afterPath="$PROJECT_DIR$/../webpack/src/reset.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webpack/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../others/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../others/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lasagna.html" beforeDir="false" afterPath="$PROJECT_DIR$/../others/lasagna.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../notes.html" beforeDir="false" />
@@ -632,7 +576,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -670,7 +614,7 @@
       <workItem from="1674119189803" duration="9702000" />
       <workItem from="1674263563862" duration="15203000" />
       <workItem from="1674436155226" duration="332000" />
-      <workItem from="1674436491132" duration="11947000" />
+      <workItem from="1674436491132" duration="13681000" />
     </task>
     <servers />
   </component>
