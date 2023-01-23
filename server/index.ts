@@ -7,8 +7,6 @@ import dotenv from 'dotenv';
 import morgan from 'morgan';
 import clientRoutes from './routes/client';
 import generalRoutes from './routes/general';
-import managementRoutes from './routes/management';
-import salesRoutes from './routes/sales';
 
 //data imports
 import User from './models/User';
@@ -32,8 +30,6 @@ app.use(cors());
 //Routes
 app.use('/client', clientRoutes);
 app.use('/general', generalRoutes);
-app.use('/management', managementRoutes);
-app.use('/sales', salesRoutes);
 
 const port = process.env.PORT || 9000;
 const mongo = process.env.MONGO_URL as string;
