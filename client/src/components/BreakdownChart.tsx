@@ -10,7 +10,7 @@ const BreakdownChart = ({ isDashboard = false }) => {
     if (!data || isLoading) return "Loading...";
     // @ts-ignore
     const colors = [theme.palette.secondary[500], theme.palette.secondary[300], theme.palette.secondary[300], theme.palette.secondary[500],];
-    const formattedData = Object.entries(data.salesByCategory).map(
+    const formattedData:any = Object.entries(data.salesByCategory).map(
         ([category, sales], i) => ({
             id: category,
             label: category,

@@ -555,7 +555,6 @@
       <change afterPath="$PROJECT_DIR$/../webpack/src/reset.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webpack/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../others/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../others/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lasagna.html" beforeDir="false" afterPath="$PROJECT_DIR$/../others/lasagna.html" afterDir="false" />
@@ -614,7 +613,7 @@
       <workItem from="1674119189803" duration="9702000" />
       <workItem from="1674263563862" duration="15203000" />
       <workItem from="1674436155226" duration="332000" />
-      <workItem from="1674436491132" duration="13681000" />
+      <workItem from="1674436491132" duration="14417000" />
     </task>
     <servers />
   </component>
