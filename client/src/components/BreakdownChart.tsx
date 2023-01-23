@@ -6,11 +6,12 @@ import { useGetSalesQuery } from "../state/api";
 const BreakdownChart = ({ isDashboard = false }) => {
     const { data, isLoading } = useGetSalesQuery();
     const theme = useTheme();
+    // console.log(data);
 
     if (!data || isLoading) return "Loading...";
     // @ts-ignore
     const colors = [theme.palette.secondary[500], theme.palette.secondary[300], theme.palette.secondary[300], theme.palette.secondary[500],];
-    const formattedData:any = Object.entries(data.salesByCategory).map(
+    const formattedData = Object.entries(data.salesByCategory).map(
         ([category, sales], i) => ({
             id: category,
             label: category,

@@ -2,8 +2,7 @@ import React, {useState} from 'react';
 import {useGetSalesQuery} from "../../state/api";
 import {FormControl, MenuItem, InputLabel, Box,Select} from "@mui/material";
 import Header from "../../components/Header";
-// @ts-ignore
-import OverviewChart from "../../components/OverviewChart";
+// import OverviewChart from "../../components/OverviewChart";
 
 const Overview = () => {
     const [view, setView] = useState('units');
@@ -20,8 +19,7 @@ const Overview = () => {
                         <MenuItem value='units'>Units</MenuItem>
                     </Select>
                 </FormControl>
-                {/*@ts-ignore*/}
-                <OverviewChart view={view}/>
+                {/*<OverviewChart view={view}/>*/}
             </Box>
         </Box>
     );

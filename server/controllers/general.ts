@@ -27,7 +27,7 @@ export const getDashboardStats = async (req: Request, res: Response) => {
             yearlySalesTotal,
             monthlyData,
             salesByCategory
-        } = overallStat;
+        } = overallStat[0];
         const thisMonthStats = overallStat[0].monthlyData.find(({month}:any)=>{
             return month === currentMonth
         });
@@ -45,6 +45,7 @@ export const getDashboardStats = async (req: Request, res: Response) => {
             todayStats,
             transactions
         })
+        // res.status(200).json('abc')
     } catch (error: any) {
         res.status(404).json({message: error.message})
     }

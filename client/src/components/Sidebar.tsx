@@ -63,22 +63,6 @@ const navItems = [
         text: 'Sales',
         icon: null
     },
-    {
-        text: 'Overview',
-        icon: <PointOfSaleOutlined/>
-    },
-    {
-        text: 'Daily',
-        icon: <TodayOutlined/>
-    },
-    {
-        text: 'Monthly',
-        icon: <CalendarMonthOutlined/>
-    },
-    {
-        text: 'Breakdown',
-        icon: <PieChartOutlineOutlined/>
-    },
 ]
 
 const Sidebar = ({isSidebarOpen, setIsSidebarOpen, user}: IProps) => {
