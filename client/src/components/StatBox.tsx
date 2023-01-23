@@ -14,6 +14,7 @@ const StatBox = ({ title, value, increase, icon, description }:any) => {
             justifyContent="space-between"
             p="1.25rem 1rem"
             flex="1 1 100%"
+            minWidth='180px'
             // @ts-ignore
             backgroundColor={theme.palette.background.alt}
             borderRadius="0.55rem"

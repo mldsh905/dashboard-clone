@@ -555,19 +555,7 @@
       <change afterPath="$PROJECT_DIR$/../webpack/src/reset.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webpack/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../others/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/BreakdownChart.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/OverviewChart.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/scenes/breakdown/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/scenes/daily/index.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/scenes/monthly/index.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/scenes/sales/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/controllers/management.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/controllers/sales.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/management.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/sales.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/scenes/dashboard/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/scenes/dashboard/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../others/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lasagna.html" beforeDir="false" afterPath="$PROJECT_DIR$/../others/lasagna.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../notes.html" beforeDir="false" />
@@ -626,7 +614,7 @@
       <workItem from="1674263563862" duration="15203000" />
       <workItem from="1674436155226" duration="332000" />
       <workItem from="1674436491132" duration="17410000" />
-      <workItem from="1674458826732" duration="345000" />
+      <workItem from="1674458826732" duration="676000" />
     </task>
     <servers />
   </component>
